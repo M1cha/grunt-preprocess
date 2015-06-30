@@ -33,7 +33,7 @@
     "grunt": "~0.4.0"
   },
   "dependencies": {
-    "preprocess": "~2.3.1"
+    "preprocess": "git+https://github.com/sturents/preprocess.git#include-once"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
